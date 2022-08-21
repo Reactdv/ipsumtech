@@ -1,0 +1,30 @@
+.nav {
+	background: var(--clr-primary);
+	width: 100%;
+	padding: 1.5rem;
+}
+
+.nav__links {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 2rem;
+}
+
+.nav__links li:last-child {
+	margin-left: auto;
+}
+
+.nav__links li a {
+	color: var(--clr-white);
+	font-family: var(--ff-lobster);
+	font-size: var(--fs-heading);
+	transition: all 400ms ease-in;
+}
+
+.nav__links li a:hover {
+	/* transform: scale(1.5); */
+	font-size: 40px;
+	color: aqua;
+}
