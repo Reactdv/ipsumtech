@@ -127,11 +127,30 @@
 	corner-color: var(--clr-dark);
 	font-size: var(--fs-main);
 	font-family: var(--ff-lobster);
-	text-indent: 30px;
+	text-indent: 20px;
 }
 
 .searching {
 	/* box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); */
 	height: 170px;
 	width: 200px;
+}
+
+@media screen and (max-width: 450px) {
+	.about__card {
+		width: 290px;
+	}
+
+	.how__we__work__card__container {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.how__we__work__card {
+		width: 250px;
+	}
+
+	.searching {
+		display: none;
+	}
 }

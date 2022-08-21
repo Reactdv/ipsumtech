@@ -46,13 +46,8 @@ input {
 	border: none;
 }
 
-textarea {
-	font-size: 1rem;
-	font-family: var(--ff-poppins);
-	font-weight: 200;
-	padding: 0.5rem 1rem;
-	border-radius: 5px;
-	border: none;
+.msg__input {
+	height: 100px;
 }
 
 .contactForm__btn {
@@ -70,4 +65,23 @@ textarea {
 }
 .message {
 	width: 300px;
+}
+
+@media screen and (max-width: 450px) {
+	.message {
+		display: none;
+	}
+
+	form {
+		padding: 2rem;
+		gap: 1.5rem;
+	}
+	input {
+		font-size: 1rem;
+	}
+
+	.contactForm__btn {
+		font-size: 18px;
+		padding: 0.7rem;
+	}
 }

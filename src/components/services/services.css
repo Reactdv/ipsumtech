@@ -52,3 +52,9 @@
 	font-size: 10px;
 	font-family: var(--ff-poppins);
 }
+
+@media screen and (max-width: 450px) {
+	.services {
+		flex-direction: column;
+	}
+}

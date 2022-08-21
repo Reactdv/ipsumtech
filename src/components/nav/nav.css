@@ -28,3 +28,15 @@
 	font-size: 40px;
 	color: aqua;
 }
+
+@media screen and (max-width: 650px) {
+	.nav__links li a {
+		font-size: 16px;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	.nav__links li a {
+		font-size: 12px;
+	}
+}

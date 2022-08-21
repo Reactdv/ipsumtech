@@ -37,9 +37,9 @@ const Contact = () => {
 				(e.nativeEvent.offsetX * 0.75) / 2
 			}deg)`);
 		}
-    if(contactForm != ''){
-      return formRef.current.style.transform = 'rotateY(0deg)';
-    }
+		if (contactForm != "") {
+			return (formRef.current.style.transform = "rotateY(0deg)");
+		}
 	};
 
 	return (
@@ -81,9 +81,8 @@ const Contact = () => {
 						/>
 					</span>
 					<span>
-						<textarea
-							rows="6"
-							cols="50"
+						<input
+						className="msg__input"
 							placeholder="message"
 							type="text"
 							value={contactForm.message}

@@ -1,6 +1,11 @@
 .home {
 	width: 100%;
 	position: relative;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	background: purple;
 }
 
 .home img {
@@ -83,4 +88,20 @@
 
 .home-content button:hover {
 	background: #7300cb;
+}
+
+@media screen and (max-width: 650px) {
+	.home {
+		flex-direction: column;
+	}
+	.home-content h1 {
+		font-size: var(--fs-heading);
+	}
+	.home-content button {
+		font-size: small;
+	}
+
+	.home-content {
+		margin-left: 14.5rem;
+	}
 }

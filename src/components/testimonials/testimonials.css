@@ -44,3 +44,25 @@
 .testimonialCard h6 {
 	margin: 0.5rem 1rem;
 }
+
+@media screen and (max-width: 450px) {
+	#testimonials {
+		min-height: 500vh;
+	}
+
+	.testimonialCard:first-child {
+		transform: translateY(50%);
+	}
+
+	.testimonialCard:nth-child(2) {
+		transform: translateY(160%);
+	}
+
+	.testimonialCard:nth-child(3) {
+		transform: translateY(270%);
+	}
+
+	.testimonialCard:last-child {
+		transform: translateY(430%);
+	}
+}
