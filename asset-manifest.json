@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ipsumtech/static/css/main.a4e354d8.css",
+    "main.js": "/ipsumtech/static/js/main.69188eb6.js",
+    "static/media/people-removebg.png": "/ipsumtech/static/media/people-removebg.dd0762ac31b2de165b06.png",
+    "static/media/emily.svg": "/ipsumtech/static/media/emily.1f298682b8f1edf462e305eb2f8c5159.svg",
+    "static/media/christina.svg": "/ipsumtech/static/media/christina.262a74c5b5ed32f50ca359dbc20f776d.svg",
+    "static/media/patel.svg": "/ipsumtech/static/media/patel.5e19756b6ec8b45d52a472e15d5786fb.svg",
+    "static/media/mars.svg": "/ipsumtech/static/media/mars.ea255adedbb56e5c740cb39e1d1240d2.svg",
+    "static/media/research-analysis.svg": "/ipsumtech/static/media/research-analysis.f9040825245e6984f5c00efaecd16cd3.svg",
+    "static/media/design.svg": "/ipsumtech/static/media/design.57fbeb57b9625535ce182152ac6ded37.svg",
+    "static/media/counselling.svg": "/ipsumtech/static/media/counselling.9a97296b82faa7fb51800034157825b1.svg",
+    "static/media/engineering-team.svg": "/ipsumtech/static/media/engineering-team.39ad59fad604deaeb8ce5b7aa0b35533.svg",
+    "static/media/searching.svg": "/ipsumtech/static/media/searching.3e0bc6e2aca5e908893ae295bae2c215.svg",
+    "static/media/message.svg": "/ipsumtech/static/media/message.a8f4fe038e058570f82f9534fe296fc2.svg",
+    "static/media/testimonials-bg.svg": "/ipsumtech/static/media/testimonials-bg.306e3a081ed84d2a0fad.svg",
+    "static/media/homepage-bg.svg": "/ipsumtech/static/media/homepage-bg.bb4df70499fd9e02b90aff96dabb7499.svg",
+    "index.html": "/ipsumtech/index.html",
+    "static/media/irreg-bg.svg": "/ipsumtech/static/media/irreg-bg.a195d69d706515396c2536f0536e56e1.svg",
+    "main.a4e354d8.css.map": "/ipsumtech/static/css/main.a4e354d8.css.map",
+    "main.69188eb6.js.map": "/ipsumtech/static/js/main.69188eb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4e354d8.css",
+    "static/js/main.69188eb6.js"
+  ]
+}
