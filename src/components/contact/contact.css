@@ -80,13 +80,13 @@ input {
 	input {
 		font-size: 1rem;
 		padding: 0.8rem;
-		width: 200px;
+		width: 210px;
 	}
 
 	.contactForm__btn {
 		font-size: 14px;
-		width: 220px;
+
 		padding: 0.7rem 0;
-		width: 200px;
+		width: 210px;
 	}
 }
