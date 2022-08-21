@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ipsumtech/static/css/main.f1a4f1f6.css",
+    "main.css": "/ipsumtech/static/css/main.325e7c20.css",
     "main.js": "/ipsumtech/static/js/main.53bc56e2.js",
     "static/media/people-removebg.png": "/ipsumtech/static/media/people-removebg.dd0762ac31b2de165b06.png",
     "static/media/emily.svg": "/ipsumtech/static/media/emily.1f298682b8f1edf462e305eb2f8c5159.svg",
@@ -17,11 +17,11 @@
     "static/media/homepage-bg.svg": "/ipsumtech/static/media/homepage-bg.bb4df70499fd9e02b90aff96dabb7499.svg",
     "index.html": "/ipsumtech/index.html",
     "static/media/irreg-bg.svg": "/ipsumtech/static/media/irreg-bg.a195d69d706515396c2536f0536e56e1.svg",
-    "main.f1a4f1f6.css.map": "/ipsumtech/static/css/main.f1a4f1f6.css.map",
+    "main.325e7c20.css.map": "/ipsumtech/static/css/main.325e7c20.css.map",
     "main.53bc56e2.js.map": "/ipsumtech/static/js/main.53bc56e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1a4f1f6.css",
+    "static/css/main.325e7c20.css",
     "static/js/main.53bc56e2.js"
   ]
 }
